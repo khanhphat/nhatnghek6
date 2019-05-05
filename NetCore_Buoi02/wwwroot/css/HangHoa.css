@@ -4,6 +4,8 @@
     width: 220px; height:300px;
     border:1px solid #ff0000;
     border-radius: 7px;
+    display:inline-block; /*box khoi noi tuyen tu troi len*/
+    margin:35px 5px 5px 5px;
 }
 .hh-box:hover{
     /*x: theo chieu ngang, y:doc, z: doday mau;*/
